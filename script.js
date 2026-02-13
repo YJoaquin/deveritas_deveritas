@@ -24,7 +24,7 @@ function moveNoButton() {
 
 
 function growYesButton() {
-    scale += 0.15;
+    scale += 0.30;
     yesBtn.style.transform = `scale(${scale})`;
 }
 
